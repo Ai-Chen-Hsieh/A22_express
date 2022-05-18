@@ -1,0 +1,29 @@
+.container{
+  width:90%;
+  margin:0 auto;
+}
+.nav {
+  width:90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-list {
+  display: flex;
+}
+.nav-list > .item {
+  list-style-type: none;
+  margin-right: 1rem;
+}
+.btn {
+  background: #a2a2a2;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  color:black;
+}
+.btn:hover {
+  color: white;
+  background: #464646;
+  cursor: pointer;
+}
