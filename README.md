@@ -1,4 +1,4 @@
-### A22_expressu驗收
+### A22_express驗收
 
 
 #功能
@@ -25,7 +25,7 @@
 6.至 http://localhost:3000 開始使用
 
 ***
-#使用工具
-Visual Studio Code - 開發環境
-Express - 應用程式架構 (版本4.16.4)
-Express-Handlebars - 模板引擎(版本3.0.0)
+#使用工具  
+Visual Studio Code - 開發環境  
+Express - 應用程式架構 (版本4.16.4)  
+Express-Handlebars - 模板引擎(版本3.0.0)  
