@@ -2,7 +2,7 @@
 
 
 #功能
-點擊列表上的按鈕會跑出相對應的內容
+點擊列表上的按鈕會跑出相對應的內容  
 
 #專案執行步驟
 1.開啟終端機(Terminal)cd 到存放專案位置執行:  
@@ -19,7 +19,10 @@ npm install express
 
 ```npm install express-handlebars```  
 4.安裝nodemon 
-```npm install nodemon```  
+
+```
+npm install nodemon
+```  
 
 5.啟動伺服器  
 
@@ -28,7 +31,7 @@ nodemon app.js
 ```  
 終端顯示 express is running on http://localhost:3000! 即啟動完成
 
-6.至 http://localhost:3000 開始使用
+6.至 http://localhost:3000 開始使用  
 
 ***
 #使用工具  
