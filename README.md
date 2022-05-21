@@ -1,10 +1,10 @@
-### A22_express驗收
+# A22_express驗收
 
 
-# 功能  
+### 功能  
 點擊列表上的按鈕會跑出相對應的內容  
 
-# 專案執行步驟  
+### 專案執行步驟  
 1.開啟終端機(Terminal)cd 到存放專案位置執行:  
 
 ```
@@ -36,7 +36,7 @@ nodemon app.js
 6.至 http://localhost:3000 開始使用  
 
 ***
-#使用工具  
+### 使用工具  
 Visual Studio Code - 開發環境  
 Express - 應用程式架構 (版本4.16.4)  
 Express-Handlebars - 模板引擎(版本3.0.0)  
